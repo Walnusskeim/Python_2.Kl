@@ -32,7 +32,7 @@ def yen_dollar(eingabe):
 
 ####main####
 def main ():
-    print("###########WÄhRUNGSRECHNER###########")
+    print("###########WÄHRUNGSRECHNER###########")
     print("Welche Währung willst du umrechnen?")
     a = input(" 1 für Euro \n 2 für Dollar \n 3 für Yen \n")
 
