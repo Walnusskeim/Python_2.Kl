@@ -41,7 +41,7 @@ while True:
         print('Okay, dann nicht. Tschüssi :)')
         break
 
-    else:               #Wenn der Benutzer etwas anderes als 'j' oder 'n' eingibt, dann wird die Ausgabe abgebrochen
+    else:               #Wenn der Benutzer etwas anderes als 'j' oder 'n' eingibt, wird die Ausgabe abgebrochen
         print('Du hast keine gültige Eingabe getätigt!')
         continue
 
