@@ -1,6 +1,10 @@
 '''
 Programm, welches die Buchstaben einer Datei liest und jeden Buchstaben in ein Dictionary einträgt.
+Das Dictionary wird dann in eine CSV Datei geschrieben, wenn es der Benutzer möchte.
+Maximilian
+30.01.2023
 '''
+
 
 import tkinter
 from tkinter.filedialog import askopenfile
