@@ -12,7 +12,7 @@ import csv
 client = discord.Client(intents = discord.Intents.all())
 
 #Geheimen Token auslesen damit der Bot funktioniert
-file = open("abc.txt")
+file = open("abc.txt" , "r")
 TOKEN = file.read()
 file.close()
 
